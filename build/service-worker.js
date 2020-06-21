@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-wpm-typing-speed/precache-manifest.2842bca78ea27dcbfaa17e0286e00f7c.js"
+  "/react-wpm-typing-speed/precache-manifest.f484e412f093e0dc13d21a87078f8775.js"
 );
 
 self.addEventListener('message', (event) => {

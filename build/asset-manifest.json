@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-wpm-typing-speed/static/css/main.7bd5103b.chunk.css",
-    "main.js": "/react-wpm-typing-speed/static/js/main.5bd8a224.chunk.js",
-    "main.js.map": "/react-wpm-typing-speed/static/js/main.5bd8a224.chunk.js.map",
+    "main.js": "/react-wpm-typing-speed/static/js/main.3f59c5a0.chunk.js",
+    "main.js.map": "/react-wpm-typing-speed/static/js/main.3f59c5a0.chunk.js.map",
     "runtime-main.js": "/react-wpm-typing-speed/static/js/runtime-main.ab18e7f7.js",
     "runtime-main.js.map": "/react-wpm-typing-speed/static/js/runtime-main.ab18e7f7.js.map",
     "static/js/2.1454823c.chunk.js": "/react-wpm-typing-speed/static/js/2.1454823c.chunk.js",
     "static/js/2.1454823c.chunk.js.map": "/react-wpm-typing-speed/static/js/2.1454823c.chunk.js.map",
     "index.html": "/react-wpm-typing-speed/index.html",
-    "precache-manifest.2842bca78ea27dcbfaa17e0286e00f7c.js": "/react-wpm-typing-speed/precache-manifest.2842bca78ea27dcbfaa17e0286e00f7c.js",
+    "precache-manifest.f484e412f093e0dc13d21a87078f8775.js": "/react-wpm-typing-speed/precache-manifest.f484e412f093e0dc13d21a87078f8775.js",
     "service-worker.js": "/react-wpm-typing-speed/service-worker.js",
     "static/css/main.7bd5103b.chunk.css.map": "/react-wpm-typing-speed/static/css/main.7bd5103b.chunk.css.map",
     "static/js/2.1454823c.chunk.js.LICENSE.txt": "/react-wpm-typing-speed/static/js/2.1454823c.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab18e7f7.js",
     "static/js/2.1454823c.chunk.js",
     "static/css/main.7bd5103b.chunk.css",
-    "static/js/main.5bd8a224.chunk.js"
+    "static/js/main.3f59c5a0.chunk.js"
   ]
 }
